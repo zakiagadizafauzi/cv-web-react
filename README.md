@@ -26,7 +26,7 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini secara lokal:
    Masuk ke direktori hasil clone:
 
    ```bash
-   cd repository-name
+   cd cv-web-react
    ```
 
 3. **Install dependencies**
