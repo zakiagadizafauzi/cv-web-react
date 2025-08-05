@@ -19,7 +19,7 @@ export default function ContactSection() {
     {
       label: "blog",
       icon: "mdi:world",
-      url: "https://www.github.com/ktyudha",
+      url: "https://dhasitus.wordpress.com",
     },
   ];
   return (
