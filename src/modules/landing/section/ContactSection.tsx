@@ -33,10 +33,11 @@ export default function ContactSection() {
         </p>
         <div className="md:w-4/6 grid grid-cols-1 gap-2">
           <a
-            href="mailto:kurniawanyudha@te.student.pens.ac.id"
+            href="https://mail.google.com/mail/?view=cm&to=ktyoedha@gmail.com"
+            target="_blank"
             className="text-md hover:underline break-all md:text-left text-center"
           >
-            kurniawanyudha@te.student.pens.ac.id
+            ktyoedha@gmail.com
           </a>
           <div className="flex flex-wrap gap-4 md:justify-start justify-center">
             {socials.map((data, idx) => (
