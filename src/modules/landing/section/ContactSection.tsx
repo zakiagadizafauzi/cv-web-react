@@ -9,7 +9,7 @@ export default function ContactSection() {
     {
       label: "linkedin",
       icon: "ri:linkedin-box-line",
-      url: "https://www.github.com/ktyudha",
+      url: "https://linkedin.com/in/ktyudha",
     },
     {
       label: "whatsapp",
